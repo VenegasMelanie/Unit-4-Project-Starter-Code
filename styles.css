@@ -1,0 +1,58 @@
+body{
+    background-color:#c7f6f9;
+}
+
+img {
+    width: 200px;   
+    border: dotted 4px pink;
+    margin: 2px;
+}
+.navBar {
+display:flex;
+    justify-content:center;
+   
+}
+.menu {
+    display:flex;
+    justify-content:space-evenly;
+}
+h2{
+border:solid;
+    padding:6px;
+    margin: 5px;
+    font-family: 'Dancing Script', cursive;
+}
+h1{
+    display:flex;
+justify-content:center;
+}
+p{
+border: solid 2px;
+    background-color:#c9c9ff;
+    margin: 3px;
+}
+img{
+width: 219px;
+}
+.aboutMe {
+border: solid 3px;
+    margin: 8px;
+    padding: 12px;
+    background-color: white;
+}
+.posts {
+    border: solid 3px;
+    background-color: white;
+    margin:8px;
+    padding:12px;
+}
+.friendsList{
+    border: solid 3px;
+    margin: 8px;
+    padding: 12px;
+    background-color:white;
+}
+h3{
+font-family: 'Gluten', cursive;
+}
+ul{font-family: 'Gluten', cursive;}
